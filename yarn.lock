@@ -13021,13 +13021,6 @@ pirates@^4.0.0, pirates@^4.0.1:
   resolved "https://registry.yarnpkg.com/pirates/-/pirates-4.0.4.tgz#07df81e61028e402735cdd49db701e4885b4e6e6"
   integrity sha512-ZIrVPH+A52Dw84R0L3/VS9Op04PuQ2SEoJL6bkshmiTic/HldyW9Tf7oH5mhJZBK7NmDx27vSMrYEXPXclpDKw==
 
-pixelmatch@^5.2.1:
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/pixelmatch/-/pixelmatch-5.2.1.tgz#9e4e4f4aa59648208a31310306a5bed5522b0d65"
-  integrity sha512-WjcAdYSnKrrdDdqTcVEY7aB7UhhwjYQKYhHiBXdJef0MOaQeYpUdQ+iVyBLa5YBKS8MPVPPMX7rpOByISLpeEQ==
-  dependencies:
-    pngjs "^4.0.1"
-
 piscina@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/piscina/-/piscina-3.2.0.tgz#f5a1dde0c05567775690cccefe59d9223924d154"
@@ -13038,6 +13031,13 @@ piscina@^3.2.0:
     hdr-histogram-percentiles-obj "^3.0.0"
   optionalDependencies:
     nice-napi "^1.0.2"
+
+pixelmatch@^5.2.1:
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/pixelmatch/-/pixelmatch-5.2.1.tgz#9e4e4f4aa59648208a31310306a5bed5522b0d65"
+  integrity sha512-WjcAdYSnKrrdDdqTcVEY7aB7UhhwjYQKYhHiBXdJef0MOaQeYpUdQ+iVyBLa5YBKS8MPVPPMX7rpOByISLpeEQ==
+  dependencies:
+    pngjs "^4.0.1"
 
 pkg-dir@^2.0.0:
   version "2.0.0"
